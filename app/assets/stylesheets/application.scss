@@ -17,3 +17,14 @@
 @import "bootstrap/scss/bootstrap";
 
 @dark-blue: #1C3859;
+
+h1 {
+    padding: 10 0;
+    text-align: center;
+}
+
+/* form */
+.form-center {
+    display: inline-block;
+    margin: 0 auto;
+}
